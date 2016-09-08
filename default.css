@@ -179,7 +179,7 @@
 		text-shadow: 0px 1px 0px rgba(0,0,0,.2);
 		font-size: 1em;
 		font-weight: 400;
-		border-right: 1px solid #69b3e7;
+		border-right: 1px solid #BFBFBF;
 	}
 
 	ul.style1 .date-big
@@ -554,7 +554,7 @@
 	{
 		overflow: hidden;
 		padding: 5em 0em;
-		border-top: 1px solid #3cccd6;
+		border-top: 1px solid #69b3e7;
 	}
 
 	#copyright span
