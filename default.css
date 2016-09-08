@@ -179,7 +179,7 @@
 		text-shadow: 0px 1px 0px rgba(0,0,0,.2);
 		font-size: 1em;
 		font-weight: 400;
-		border-right: 1px solid #B9D9EB;
+		border-right: 1px solid #69b3e7;
 	}
 
 	ul.style1 .date-big
@@ -499,7 +499,7 @@
 
 	#page
 	{
-		background: #B9D9EB;
+		background: #69b3e7;
 	}
 
 /*********************************************************************************/
