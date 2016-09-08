@@ -18,7 +18,7 @@
 	h1, h2, h3
 	{
 		margin: 0;
-		padding-bottom: 100;
+		padding: 0;
 		font-weight: 600;
 		color: #333333;
 	}
@@ -379,6 +379,7 @@
 	.title h2
 	{
 		font-size: 2.8em;
+		padding: 1em;
 	}
 
 	.title .byline
