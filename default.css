@@ -7,7 +7,7 @@
 	{
 		margin: 0px;
 		padding: 0px;
-		background: #BFBFBF;
+		background: #c4d8e2;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 14pt;
 		font-weight: 350;
@@ -394,7 +394,7 @@
 
 	#header
 	{
-		position: relative;
+		position: fixed;
 		float: left;
 		width: 300px;
 		padding: 3em 0em;
@@ -471,13 +471,13 @@
 
 	#menu li:hover a, #menu li.active a, #menu li.active span
 	{
-		color: rgba(255,255,255,0.8);
+		color: rgba(255,255,255,1);
 	}
 
 	#menu .current_page_item a
 	{
-		background: #BFBFBF;
-		color: rgba(255,255,255,1);
+		background: #0038a8;
+		color: rgba(255,255,255,0.9);
 	}
 
 	#menu .icon
@@ -499,7 +499,7 @@
 
 	#page
 	{
-		background: #69b3e7;
+		background: #A8cee2;
 	}
 
 /*********************************************************************************/
