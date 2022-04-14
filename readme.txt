@@ -1,4 +1,4 @@
-Columbia SIAM chapter website: columbiasiam.github.io
+Columbia SIAM chapter website: httos://columbiasiam.github.io
 
 Made with template builder nicepage: https://nicepage.com
 
