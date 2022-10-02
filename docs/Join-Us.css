@@ -3,41 +3,27 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 2334px;
+  min-height: 800px;
 }
 
 .u-section-1 .u-text-1 {
   font-weight: 400;
-  margin: 60px auto 0;
+  margin: 60px auto;
 }
 
 .u-section-1 .u-btn-1 {
   background-image: none;
-  border-style: none;
-  text-decoration: underline !important;
   padding: 0;
 }
 
-.u-section-1 .u-custom-html-1 {
-  min-height: 2168px;
-  margin: 14px auto 60px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-1 .u-custom-html-1 {
-    height: auto;
-    margin-right: initial;
-    margin-left: initial;
-  }
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  padding: 0;
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
     min-height: 152px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-bottom: 60px;
   }
 }
 
