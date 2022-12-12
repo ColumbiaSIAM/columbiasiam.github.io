@@ -18,7 +18,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 652px;
-  background-image: url("images/bootcamp.jpg");
+  background-image: url("images/bootcamp.png");
   background-position: 50% 50%;
 }
 
@@ -31,12 +31,12 @@
   font-weight: 700;
   font-size: 1.5rem;
   background-image: none;
-  margin: 0 auto;
+  margin: 395px auto 0;
   padding: 16px 46px 17px;
 }
 
 .u-section-1 .u-layout-cell-2 {
-  min-height: 287px;
+  min-height: 337px;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -61,7 +61,7 @@
 }
 
 .u-section-1 .u-layout-cell-4 {
-  min-height: 287px;
+  min-height: 313px;
 }
 
 .u-section-1 .u-container-layout-4 {
@@ -100,7 +100,7 @@
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 237px;
+    min-height: 278px;
   }
 
   .u-section-1 .u-layout-cell-3 {
@@ -112,7 +112,7 @@
   }
 
   .u-section-1 .u-layout-cell-4 {
-    min-height: 237px;
+    min-height: 258px;
   }
 
   .u-section-1 .u-layout-cell-5 {
